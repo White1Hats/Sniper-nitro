@@ -15,52 +15,52 @@
 
 # Features
 
-- Nitro, giveaway & invite sniper
-- Customizable limits for the sniper (e.g. Snipe 2 Nitros then stop for 24 hours)
-- Light, fast & efficient
-- Customizable delay for giveaway joiner
-- DMing the host on giveaway win with customizable DM Delay and a DM Message.
-- Status changer for main account & alternate accounts
-- Fake code & duplicate protection
-- Multi-Account support featuring alternate accounts & main accounts
-- 3 Modes - `main`, `alts`, `both`. Each mode describes what accounts will be used when the sniper starts.
-- Feeding system from alternate accounts, catches a nitro on your alternate account and redeems it on your main account
-- Customizable webhook (Giveaways, Nitro, invites) with customizable events (Invalid Code, redeemed code, joined server)
-- Customizable webhook mentions for fired events (Pings @everyone, recommended to run in a private server)
-- Fully customizable word whitelist & blacklist for the giveaway sniper.
-- Whitelist only mode for giveaway sniper (Blacklist still applies)
-- Per-server blacklist and whitelist for the giveaway sniper
-- Announces the type of Nitro sniped on snipe (e.g. Nitro Classic)
-- Configurable invite sniper featuring minimum and max member counts and limited invite joins (e.g. 10 invites / 6 hours)
-- Delay management for the invite sniper to avoid suspensions
+- Nitro, sorteio e convite de atirador
+- Limites personalizáveis ​​para o atirador (por exemplo, Snipe 2 Nitros e então pare por 24 horas)
+- Leve, rápido e eficiente
+- Atraso personalizável para o participante do sorteio
+- DMing o host na vitória do sorteio com DM Delay personalizável e uma DM Message.
+- Alteração de status para conta principal e contas alternativas
+- Código falso e proteção duplicada
+- Suporte para várias contas com contas alternativas e contas principais
+- 3 modos - `main`, `alts`, `both`. Cada modo descreve quais contas serão usadas quando o atirador começar.
+- Sistema de alimentação de contas alternativas, pega um nitro em sua conta alternativa e o resgata em sua conta principal
+- Webhook personalizável (brindes, Nitro, convites) com eventos personalizáveis ​​(código inválido, código resgatado, servidor associado)
+- Menções de webhook personalizáveis ​​para eventos acionados (Pings @everyone, recomendado para execução em um servidor privado)
+- Lista branca e lista negra de palavras totalmente personalizáveis ​​para o atirador de elite.
+- Modo de lista branca apenas para atirador de elite (a lista negra ainda se aplica)
+- Lista negra e lista branca por servidor para o atirador de elite
+- Anuncia o tipo de Nitro sniped no snipe (por exemplo, Nitro Classic)
+- Sniper de convite configurável com contagens mínima e máxima de membros e convites limitados (por exemplo, 10 convites / 6 horas)
+- Gerenciamento de atraso para o atirador de convite para evitar suspensões
 
 ## Previews
 ![Image](https://media.wtf/11603354)
 
 ## FAQ
-- **Q: Where can I find the installation steps?**
+- **Q: Onde posso encontrar as etapas de instalação?**
 - A: [Installation](https://github.com/localip/nitro-sniper/wiki/Installation)
 
 <br />
 
-- **Q: Where can I find the default configuration?**
+- **Q: Onde posso encontrar a configuração padrão?**
 - A: [Default Configuration](https://github.com/localip/nitro-sniper/wiki/Default-Configuration)
 
 <br />
 
-- **Q: How can I obtain my token?**
+- **Q: Como posso obter meu token?**
 - A: [How to obtain your token](https://www.youtube.com/watch?v=rawcwqFJCCE)
 
 <br />
 
-- **Q: I'm getting the `Invalid Settings` error, how can I fix this?**
+- **Q: Estou recebendo o erro `Configurações inválidas`, como posso corrigir isso?**
 - A: [Validate your JSON5](https://jsonformatter.org/json5-validator)
 
 ## Tips
 
-- Try to get a low latency to Discord servers as there often is competition with other snipers.
-- This is technically a self-bot: mentioning this in a Discord chat is enough to make your account reportable to Trust & Safety.
-- Running more than one instance or different snipers is an easy way to get your account deactivated or terminated.
-- Before using, consider the moral implications of stealing gifts from people and communities you have nothing to do with.
+- Tente obter uma latência baixa para os servidores do Discord, pois geralmente há competição com outros atiradores.
+- Este é tecnicamente um auto-bot: mencionar isso em um bate-papo do Discord é suficiente para tornar sua conta reportável à Trust & Safety.
+- Executar mais de uma instância ou atiradores diferentes é uma maneira fácil de desativar ou encerrar sua conta.
+- Antes de usar, considere as implicações morais de roubar presentes de pessoas e comunidades com as quais você não tem nada a ver.
 
-> If you enjoy my projects, please consider leaving a :star: in the top right on the repo :)
+> Se você gosta dos meus projetos, considere deixar uma :estrela: no canto superior direito do repositório :)
